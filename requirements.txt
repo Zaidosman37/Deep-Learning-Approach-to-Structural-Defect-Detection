@@ -1,5 +1,7 @@
-google-generativeai
+google.generativeai
 streamlit
 PIL
 pandas
+numpy
 datetime
+
